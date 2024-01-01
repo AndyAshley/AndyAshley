@@ -2,9 +2,8 @@
 --------------------------------------------------------
 Software Engineer specializing in Front-End Engineering.
 --------------------------------------------------------
-
 Passionate about UI/UX && Full-Stack Development.
-
+* :mortar_board: Currently pursuing my B.S. in Software Engineering [@WGU](https://www.wgu.edu/)
 * 🌍  I'm based in New York
 
 ### Skills
