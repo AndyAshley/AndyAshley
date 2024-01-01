@@ -1,7 +1,7 @@
 
------------------
-Software Engineer
------------------
+--------------------------------------------------------
+Software Engineer specializing in Front-End Engineering.
+--------------------------------------------------------
 
 Passionate about UI/UX && Full-Stack Development.
 
